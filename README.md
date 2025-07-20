@@ -64,7 +64,7 @@
 
   <br /><br />
 
-  <!-- ⚙️ Back-End -->
+  <h4 align="left"> ⚙️ Back-End </h4>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo" />
@@ -75,7 +75,7 @@
 
   <br /><br />
 
-  <!-- ☁️ Tools -->
+  <h4 align="left"> ☁️ Tools </h4>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="25" alt="netlify logo" />
