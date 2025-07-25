@@ -99,4 +99,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Phathu87&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phathu87&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://raw.githubusercontent.com/jabedalimollah/jabedalimollah/output/github-contribution-grid-snake-dark.svg)
